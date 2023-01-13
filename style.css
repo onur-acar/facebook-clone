@@ -1,0 +1,40 @@
+*{
+    text-align: center;
+    background-color: rgb(245, 246, 250);
+}
+h4{
+    color: gray;
+}
+.kaydol{
+    border-radius: 8px;
+    margin: 2%;
+    padding: 1%;
+    background-color: rgb(6, 172, 6) ;
+    color: white;
+    width: 200px;
+}
+.kaydol:hover{
+    background-color: rgb(4, 121, 4);
+}
+.input{
+    background-color: white;
+    border-radius: 4px;
+    height: 25px;
+}
+.doğum{
+    background-color: white;
+    border-radius: 4px;
+}
+.secme{
+    background-color: white;
+}
+.facebook-yazısı{
+    margin: 5%;
+    width: 400px;
+}
+.input2{
+    width: 337px;
+    border-radius: 4px;
+    height: 25px;
+    background-color: white;
+}
